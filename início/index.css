@@ -7,3 +7,11 @@
 #Jogos{
     grid-column: 1/ span 4;
 }
+#container{ 
+    text-align: center;
+
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+}
